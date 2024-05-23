@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on Legacy Modernization and Generative AI<br>🤝 I’m looking for help with utilizing LLMs to solve Software Engineering Problems<br>🌱 I’m currently learning about LLMs and their utility<br>⚡ Fun fact: Ever since I started my education, I was always in section A. And it had nothing to do with my name!
+🔭 I’m currently working on <br>
+- [COBOL RuleForge]: A framework for automating business rules extraction from legacy COBOL code, utilizing Gen AI technologies.<br>
+- [Legacy Scoring tool]: An open-source tool for scoring legacy software repositories on GitHub<br>
+
+🤝 I’m looking for help with utilizing LLMs to solve Software Engineering Problems<br>
+🌱 I’m currently learning about<br>
+- LLMs and their utility<br>
+- Gen AI technology and how to utilize them to solve software engineering problems<br>
+- Bash Scripting<br>
+- Full Stack development<br>
+
+⚡ Fun fact: Ever since I started my education, I was always in section A. And it had nothing to do with my name!
 
 
 ## 🌐 Socials:
