@@ -6,7 +6,7 @@
 🤝 I’m looking for help with utilizing LLMs to solve Software Engineering Problems<br>
 🌱 I’m currently learning about<br>
 - LLMs and their utility<br>
-- Gen AI technology and how to utilize them to solve software engineering problems<br>
+- Gen AI technology and how to leverage them to solve software engineering problems<br>
 - Bash Scripting<br>
 - Full Stack development<br>
 
