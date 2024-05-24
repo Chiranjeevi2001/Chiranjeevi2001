@@ -10,7 +10,7 @@
 - Bash Scripting<br>
 - Full Stack development<br>
 
-⚡ Fun fact: Ever since I started my education, I was always in section A. And it had nothing to do with my name!
+⚡ Fun fact: Ever since I started my education, I have always been in section A. And it had nothing to do with my name!
 
 
 ## 🌐 Socials:
