@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on <br>
 &emsp; - **COBOL RuleForge**: A framework for automating business rules extraction from legacy COBOL code, utilizing Gen AI technologies.<br>
-&emsp; - **Legacy Scoring tool**: An open-source tool for scoring legacy software repositories on GitHub<br>
+&emsp; - **Legacy Scoring tool**: An open-source tool for scoring legacy software repositories on GitHub and assigning them badges<br>
 
 🤝 I’m looking for help with utilizing LLMs to solve Software Engineering Problems<br>
 🌱 I’m currently learning about<br>
