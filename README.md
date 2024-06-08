@@ -3,7 +3,7 @@
 &emsp; - **COBOL RuleForge**: A framework for automating business rules extraction from legacy COBOL code, utilizing Gen AI technologies.<br>
 &emsp; - **Legacy Scoring tool**: An open-source tool for scoring legacy software repositories on GitHub and assigning them badges<br>
 
-🤝 I’m looking for help with utilizing LLMs to solve Software Engineering Problems<br>
+🤝 I’m looking for help with utilizing AI to solve Software Engineering Problems<br>
 🌱 I’m currently learning about<br>
 &emsp; - LLMs and their utility<br>
 &emsp; - Gen AI technology and how to leverage them to solve software engineering problems<br>
