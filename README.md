@@ -27,7 +27,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Chiranjeevi2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Other badges
-![](https://www.codewars.com/users/Chiranjeevi2001/badges/large)
+### CodeWars:<br>
+![](https://www.codewars.com/users/Chiranjeevi2001/badges/large)<br>
+### LeetCode:<br>
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=chiranjeevibs97)
 
 ---
