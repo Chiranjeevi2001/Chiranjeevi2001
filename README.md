@@ -11,7 +11,7 @@
 &emsp; - Bash Scripting<br>
 &emsp; - Full Stack development<br>
 
-⚡ Fun fact: Ever since I started my education, I have always been in section A. And it had nothing to do with my name!
+⚡ Fun fact: Ever since I started my education, I have always been in section A. It had nothing to do with my name!
 
 
 ## 🌐 Socials:
