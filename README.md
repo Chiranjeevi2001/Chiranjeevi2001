@@ -7,7 +7,7 @@
 🌱 I’m currently learning about<br>
 &emsp; - LLMs and their utility<br>
 &emsp; - Gen AI technology and how to leverage them to solve software engineering problems<br>
-&emsp; - Program analysis<br>
+&emsp; - Program analysis and toll development<br>
 &emsp; - Bash Scripting<br>
 &emsp; - Full Stack development<br>
 
