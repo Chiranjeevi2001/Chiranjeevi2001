@@ -33,10 +33,6 @@
 ### LeetCode:<br>
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=chiranjeevibs97)
 
-### Google GenAI Skill Badges<br>
-![Google GenAI badge 1](https://images.credly.com/size/340x340/images/77627e0b-11c5-4d12-b5e3-618f3d7db036/image.png)
-![Google GenAI badge 2](https://cdn.qwiklabs.com/KJbv0GOIxc4Ze8p7LH1Ke4TeOMBGPqAus29iGiFw5po%3D)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Chiranjeevi2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
