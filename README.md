@@ -32,7 +32,6 @@
 ![](https://www.codewars.com/users/Chiranjeevi2001/badges/large)<br>
 ### LeetCode:<br>
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=chiranjeevibs97)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Chiranjeevi2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
