@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on <br>
 &emsp; - **COBOL RuleForge**: A framework for automating business rules extraction from legacy COBOL code, utilizing Gen AI technologies.<br>
-&emsp; - **Legacy Scoring tool**: An open-source tool for scoring legacy software repositories on GitHub and assigning them badges<br>
+&emsp; - **Code Chronicle**: An open-source tool for scoring legacy software repositories on GitHub and assigning them badges<br>
 
 🤝 I’m looking for help with utilizing AI to solve Software Engineering Problems<br>
 🌱 I’m currently learning about<br>
@@ -9,7 +9,7 @@
 &emsp; - Gen AI technology and how to leverage them to solve software engineering problems<br>
 &emsp; - Program analysis and toll development<br>
 &emsp; - Bash Scripting<br>
-&emsp; - Full Stack development<br>
+&emsp; - Legacy Systems, COBOL in particular<br>
 
 ⚡ Fun fact: Ever since I started my education, I have always been in section A. It had nothing to do with my name!
 
