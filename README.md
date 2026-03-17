@@ -1,15 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>
+Currently an entry-level software engineer at Oracle, working on AI applications and integration into our product. 
+
+🔭 I have worked on <br>
 &emsp; - **COBOL RuleForge**: A framework for automating business rules extraction from legacy COBOL code, utilizing Gen AI technologies.<br>
 &emsp; - **Code Chronicle**: An open-source tool for scoring legacy software repositories on GitHub and assigning them badges<br>
 
 🤝 I’m looking for help with utilizing AI to solve Software Engineering Problems<br>
 🌱 I’m currently learning about<br>
+&emsp; - Real world software systems and how they are built to endure stress and load while delivering performance<br>
 &emsp; - LLMs and their utility<br>
 &emsp; - Gen AI technology and how to leverage them to solve software engineering problems<br>
-&emsp; - Program analysis and toll development<br>
-&emsp; - Bash Scripting<br>
-&emsp; - Legacy Systems, COBOL in particular<br>
+&emsp; - How to build enterprise Java applications for scale<br>
+
 
 
 ## 🌐 Socials:
